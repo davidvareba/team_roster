@@ -1,0 +1,20 @@
+{
+    "player1": {
+        "name": "Cristiano Ronaldo",
+        "position": "Striker",
+        "imageUrl": "https://resources.premierleague.com/premierleague/photos/players/250x250/p14937.png",
+        "uid": "12345"
+    },
+    "player2": {
+        "name": "Paul Pogba",
+        "position": "Midfielder",
+        "imageUrl": "https://resources.premierleague.com/premierleague/photos/players/250x250/p74208.png",
+        "uid": "12355"
+    },
+    "player3": {
+        "name": "Edinson Cavani",
+        "position": "Striker",
+        "imageUrl": "https://resources.premierleague.com/premierleague/photos/players/250x250/p40720.png",
+        "uid": "12455"
+    }
+}
